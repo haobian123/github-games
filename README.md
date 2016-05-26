@@ -8,4 +8,6 @@ You can play the game at: http://githubschool.github.io/github-games/
 
 https://github.com/haobian123/github-games.git
 
+https://github.com/haobian123/github-games.git
+
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
